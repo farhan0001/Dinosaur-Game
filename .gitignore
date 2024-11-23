@@ -1,3 +1,7 @@
 .vscode
 bin/
 lib/
+.idea
+Dinosaur Game.iml
+/out/*
+!/out/artifacts/

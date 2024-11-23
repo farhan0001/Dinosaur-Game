@@ -1,18 +1,32 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Chrome Dinosaur Game Clone
 
-## Folder Structure
+A clone of the Chrome Dinosaur game implemented using Java Swing and Abstract Window Toolkit (AWT).
 
-The workspace contains two folders by default, where:
+> Try the game using jar file `out\artifacts\Dinosaur Game.jar`
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Screenshots
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+1. Game Started
 
-## Dependency Management
+![Game Started](peek_app/game_start.png)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+2. Bird and Cloud
+
+![Bird and Cloud](peek_app/game_with_bird_cloud.png)
+
+3. Game Over
+
+![Game Over](peek_app/game_over.png)
+
+## How To Play
+
+1. Press `Spacebar` Key to hop over **cactus**
+2. Press `Down` Key to avoid **birds**
+3. Press **Any Key** to **restart** the game
+
+
+## Tech Stack
+
+**Language:** Java
